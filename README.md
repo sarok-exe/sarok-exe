@@ -35,7 +35,7 @@
   <a href="https://twitter.com/sarok_exe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X%2FTwitter&logo=twitter&label=sarok_exe&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X/Twitter logo" />
   </a>
-  <a href="https://www.youtube.com/c/sarok_ibnx" target="_blank">
+  <a href="https://www.youtube.com/@sarok_ibnx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=sarok_ibnx&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
   <a href="https://instagram.com/sarok_ibnx" target="_blank">
