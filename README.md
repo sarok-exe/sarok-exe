@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Uthman (sarok-exe), and I'm a Developer..</h2>
+<h2 align="left">hi my name is Uthman</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
