@@ -1,39 +1,20 @@
-<h2 align="left">hi my name is Uthman</h2>
+<div align="center"> <img src="https://github.com/sarok-exe.png" width="150" style="border-radius: 50%;" alt="Profile Avatar"> <h1>Uthman | Sarok</h1> <p><strong>@sarok-exe</strong> · he/him</p> <p><em>Willpower Endures</em></p> <p> <a href="https://sarok-archive.pages.dev">🌐 Website</a> • <a href="https://t.me/sarok_2x">📱 Telegram</a> • <a href="https://reddit.com/u/sarok_ibnx">👽 Reddit</a> • <a href="https://x.com/@sarok_exe">🐦 X</a> </p> <p> <img src="https://img.shields.io/github/followers/sarok-exe?style=social" alt="GitHub followers"> <img src="https://img.shields.io/github/stars/sarok-exe?style=social" alt="GitHub stars"> </p> </div>
+🧑‍💻 About Me
+<div align="center"> <blockquote> <p><strong>"Willpower Endures"</strong></p> </blockquote> </div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  </div>
+I'm a passionate developer exploring the world of Linux, window managers, and web applications. I love creating tools that make life easier and sharing my configurations with the community.
 
-###
+    🔭 Currently working on: Niri Caelestia Shell Dotfiles & Mega-Video
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://twitter.com/sarok_exe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X%2FTwitter&logo=twitter&label=sarok_exe&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X/Twitter logo" />
-  </a>
-  <a href="https://www.youtube.com/@sarok_ibnx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=sarok_ibnx&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://instagram.com/sarok_ibnx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=sarok_ibnx&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://fb.com/sarok.noha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=sarok.noha&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-</div>
+    🌱 Learning: Window manager customization, Flask, yt-dlp integration
 
-###
+    💬 Ask me about: Linux, Niri, Arch, Dotfiles
 
-<br clear="both">
+    ⚡ Fun fact: I enjoy tweaking my setup until it's just right
 
-<img src="https://raw.githubusercontent.com/sarok-exe/sarok-exe/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center"> <a href="https://github.com/sarok-exe"> <img src="https://github-readme-stats.vercel.app/api?username=sarok-exe&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"> </a> <a href="https://github.com/sarok-exe"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarok-exe&theme=tokyonight" alt="GitHub Streak" width="48%"> </a> </div>
+🚀 Featured Projects
+Project	Description	Tech Stack	Stars
+niri-caelestia-shell-dotfiles	My personal Niri dotfiles customized to work perfectly with niri-caelestia-shell	https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua	https://img.shields.io/github/stars/sarok-exe/niri-caelestia-shell-dotfiles?style=flat-square
+Mega-Video	Web app that allows you to download any video using yt-dlp & ffmpeg	https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5 https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python	https://img.shields.io/github/stars/sarok-exe/Mega-Video?style=flat-square
+l9irch	Collaborative project with @uthmanibnx	https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5	https://img.shields.io/github/stars/sarok-exe/l9irch?style=flat-square
