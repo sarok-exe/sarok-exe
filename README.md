@@ -1,7 +1,5 @@
 # Hi, I'm Sarok 👋
 
-<img src="pictopress-icon.svg" alt="pictopress" width="80" align="right">
-
 I build tools for the terminal and desktop. Arch Linux user, Niri compositor, Python/JS.
 
 ### Projects
