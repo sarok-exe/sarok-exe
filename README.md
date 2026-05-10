@@ -1,4 +1,4 @@
-# Hi, I'm Sarok 👋
+# Hi, I'm Sarok
 
 I build tools for the terminal and desktop. Arch Linux user, Niri compositor, Python/JS.
 
